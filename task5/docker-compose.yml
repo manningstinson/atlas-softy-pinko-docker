@@ -16,7 +16,3 @@ services:
     build: ./proxy
     ports:
       - "80:80"
-    depends_on:
-      - front-end
-      - back-end
-
