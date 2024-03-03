@@ -11,6 +11,8 @@ services:
     build: ./back-end
     ports:
       - "5252:5252"
+    # Other configurations...
+    scale: 2
 
   proxy:
     build: ./proxy
