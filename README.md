@@ -1,2 +1,3 @@
-# atlas-softy-pinko-docker
-Docker Project - Atlas School
+# atlas
+Softy-Pinko-Docker Docker Project
+Atlas School
